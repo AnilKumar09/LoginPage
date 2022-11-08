@@ -1,8 +1,8 @@
 Good Morning, Annaya
-Below are the tasks and follow-ups for today. Please re-priorities if needed:
+Below are the tasks and follow-ups for today. Please re-priorities as needed:
 
 Primary Tasks:
-1)Capital gains
+1) Capital gains
 2) WCP working session with Manny/Hardath category level rerun.
 3) Leo DQ items
 4) GitHub wrap
