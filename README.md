@@ -1,15 +1,10 @@
-[proxies]
-http=http://http.proxy.aws.fmrcloud.com:8000
-https=http://http.proxy.aws.fmrcloud.com:8000
+Good Morning Dan/Benson,
 
-[log]
-path=C:\ada_apps\log\SelfStorage\EXR
+We are scraping a few sites for the business on External VPC since it will not be able to scrape using the internal VPC or Bright data proxy.
 
-[data]
-data_folder=C:\ada_apps\data\WebRanger\scraper\Sites\EXR
+We need help getting a system that works like our personal laptop for developing and troubleshooting these sites. As we are having a hard time developing/troubleshooting using External VPC. 
 
-[chrome_driver]
-path=C:\ada_apps\apps\SelfStorage\chromedriver.exe
+We will be happy to schedule a meeting to provide detailed information.
 
-[thread_count]
-count=1
+Thanks,
+Anil Kumar 
