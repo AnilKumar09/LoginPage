@@ -1,10 +1,16 @@
-Good Morning Dan/Benson,
+10 K CE
+    1) Merge -> Orapipe
+    2) Move -> Pending -> Process
 
-We are scraping a few sites for the business on External VPC since it will not be able to scrape using the internal VPC or Bright data proxy.
+10 K CE
+1) Merge  -> Orapipe + 1PM_Move_File_metaData.csv
+output_path -> pending-> MoveFile_meta ->2PM_Move_File_metaData.csv
+                                         3PM_Move_File_metaData.csv
 
-We need help getting a system that works like our personal laptop for developing and troubleshooting these sites. As we are having a hard time developing/troubleshooting using External VPC. 
 
-We will be happy to schedule a meeting to provide detailed information.
 
-Thanks,
-Anil Kumar 
+Move_merge_file -> MoveFile_meta  2:20PM 
+for ()
+
+    moveFile - 2sec
+
